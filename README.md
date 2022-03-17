@@ -42,6 +42,7 @@ Click each event to expand and view the notebooks within
     * [Parallel CPU with Numba](event_notebooks/GTC_Spring_2022/numerical-computing/multi-cpu-numba.ipynb)
     * [Multi-GPU with Dask cuDF + Numba CUDA](event_notebooks/GTC_Spring_2022/numerical-computing/multi-gpu-dask-cudf-numba.ipynb)
     * [Multi-GPU with Threading + RMM + Numba CUDA](event_notebooks/GTC_Spring_2022/numerical-computing/multi-gpu-threading-rmm-numba.ipynb)
+    * [Sample Visualization](event_notebooks/GTC_Spring_2022/numerical-computing/visualization.ipynb)
 
 </details>
 
