@@ -37,11 +37,11 @@ Click each event to expand and view the notebooks within
 <details>
   <summary>GTC Spring 2022</summary>
   
-  * [Link to Folder](event_notebooks/GTC_Spring_2022/numerical_computing) 
-    * [Single Threaded & Single GPU Methods](event_notebooks/GTC_Spring_2022/numerical_computing/single-cpu-gpu.ipynb) 
-    * [Parallel CPU with Numba](event_notebooks/GTC_Spring_2022/numerical_computing/multi-cpu-numba.ipynb)
-    * [Multi-GPU with Dask cuDF + Numba CUDA](event_notebooks/GTC_Spring_2022/numerical_computing/multi-gpu-dask-cudf-numba.ipynb)
-    * [Multi-GPU with Threading + RMM + Numba CUDA](event_notebooks/GTC_Spring_2022/numerical_computing/multi-gpu-threading-rmm-numba.ipynb)
+  * [Link to Folder](event_notebooks/GTC_Spring_2022/numerical-computing) 
+    * [Single Threaded & Single GPU Methods](event_notebooks/GTC_Spring_2022/numerical-computing/single-cpu-gpu.ipynb) 
+    * [Parallel CPU with Numba](event_notebooks/GTC_Spring_2022/numerical-computing/multi-cpu-numba.ipynb)
+    * [Multi-GPU with Dask cuDF + Numba CUDA](event_notebooks/GTC_Spring_2022/numerical-computing/multi-gpu-dask-cudf-numba.ipynb)
+    * [Multi-GPU with Threading + RMM + Numba CUDA](event_notebooks/GTC_Spring_2022/numerical-computing/multi-gpu-threading-rmm-numba.ipynb)
 
 </details>
 
