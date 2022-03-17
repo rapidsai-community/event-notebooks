@@ -16,8 +16,8 @@ In these notebook examples, we survey techniques for numerical computing in pure
 
 - examples/single-cpu-gpu.ipynb - single threaded CPU and single GPU techniques on moderate sample problem
 - examples/multi-cpu-numba.ipynb - parallel CPU technique
-- examples/multi-gpu-threading.ipynb - multi-GPU technique using Threading + RMM + Numba CUDA
-- examples/multi-gpu-dask-cudf.ipynb - multi-GPU technique using Dask cuDF + Numba CUDA
+- examples/multi-gpu-threading-rmm-numba.ipynb - multi-GPU technique using Threading + RMM + Numba CUDA
+- examples/multi-gpu-dask-cudf-numba.ipynb - multi-GPU technique using Dask cuDF + Numba CUDA
 - examples/visualization.ipynb - sample visualization of the dynamic geospatial problem
 - examples/src - source code for imported functions
 
