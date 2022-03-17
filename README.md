@@ -35,6 +35,18 @@ Each folder named for a conference or event.  Each folder contains the notebooks
 Click each event to expand and view the notebooks within
 
 <details>
+  <summary>GTC Spring 2022</summary>
+  
+  * [Link to Folder](event_notebooks/GTC_Spring_2022/numerical-computing) 
+    * [Single Threaded CPU & Single GPU Methods](event_notebooks/GTC_Spring_2022/numerical-computing/single-cpu-gpu.ipynb) 
+    * [Parallel CPU with Numba](event_notebooks/GTC_Spring_2022/numerical-computing/multi-cpu-numba.ipynb)
+    * [Multi-GPU with Dask cuDF + Numba CUDA](event_notebooks/GTC_Spring_2022/numerical-computing/multi-gpu-dask-cudf-numba.ipynb)
+    * [Multi-GPU with Threading + RMM + Numba CUDA](event_notebooks/GTC_Spring_2022/numerical-computing/multi-gpu-threading-rmm-numba.ipynb)
+    * [Sample Visualization](event_notebooks/GTC_Spring_2022/numerical-computing/visualization.ipynb)
+
+</details>
+
+<details>
   <summary>GTC Spring 2021</summary>
   
   * [Link to Folder](event_notebooks/GTC_2021/credit_scorecard) 
