@@ -14,14 +14,14 @@ Computer networks generate massive amounts of heterogeneous data as users intera
 * Multiple types of attacks, with ground truth (labeled) data
 
 ##### Using the Pre-Processed Dataset
-We have pre-processed the PCAP dataset to create biflows using the process described below. You can [download it here](https://rapidsai-data.s3.us-east-2.amazonaws.com/cyber/kdd2019/Friday-02-03-2018-biflows.tar.gz). In addition, the Jupyter notebook will also download and extract the pre-processed data.
+We have pre-processed the PCAP dataset to create biflows using the process described below. You can [download it here](https://data.rapids.ai/cyber/kdd2019/Friday-02-03-2018-biflows.tar.gz). In addition, the Jupyter notebook will also download and extract the pre-processed data.
 
 ##### Downloading the Raw Data and Proecssing Yourself
 If you would prefer to process the raw data yourself, follow the directions below. These directions are also available at the bottom of [this page](https://www.unb.ca/cic/datasets/ids-2018.html).
 
 1. Install the [AWS CLI](https://aws.amazon.com/cli/), available on Mac, Windows and Linux.
 2. Run: `aws s3 sync --no-sign-request --region <your-region> "s3://cse-cic-ids2018/" dest-dir`
-    
+
 Where `your-region` is your region from the [AWS regions list](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html) and `dest-dir` is the name of the desired destination folder in your machine. For the purposes of this tutorial, we asume the data is in the same directory as the notebook under the `data/` directory. You may change this by pointing the `DATA_LOCATION` directory in the notebook to wherever the data resides.
 
 ## Files
