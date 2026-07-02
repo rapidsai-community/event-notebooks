@@ -35,7 +35,7 @@ Join NVIDIA’s engineers as they walk through a collection of data science prob
    5. Cyber flagging anomalous network communications - 45 min
    6. Break - 5 min
 3. Conclusion (not hands-on)
-   1. DASK Example (Multi-GPU 
+   1. DASK Example (Multi-GPU)
    2. Roadmap 
    3. Conclusion
 
@@ -47,5 +47,5 @@ Classification of astronomical sources in the night sky is important for underst
 **Workflow 2**
 Finding commonalities within populations, counted in hundreds of millions, and with tens of millions of distinct feature values, is a non-trivial task. Current techniques employ variations of FP-Tree algorithms to extract useful patterns. In this tutorial we will showcase an end-to-end novel approach to finding frequent patterns using cuGraph capabilities available in RAPIDS.
 
-**Workflow 3**
+**Workflow 3** (temporarily removed)
 Computer networks generate massive amounts of heterogeneous data as users interact with other users, computers, and services. These interactions can be modeled as large, heterogeneous property graphs, with multidimensional characteristics of the communication embedded on an edge connecting nodes. Current techniques to identify subgraph evolution over time and extract anomalies require lengthy compute times or necessitate significant pre-filtering of the graph. In this tutorial, we showcase an approach to flagging anomalous network communications in a large graph using a combination of structural graph features and graph analytics, running end-to-end in RAPIDS.
